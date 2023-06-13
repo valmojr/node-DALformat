@@ -1,0 +1,17 @@
+{
+  "name": "dalformat",
+  "version": "0.0.0",
+  "description": "formatador de legislações conforme leis que regem as atividades orgânicas do Departamento de Acessoramento Legislativo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "law"
+  ],
+  "author": "Valmo Trindade",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
